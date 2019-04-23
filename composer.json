@@ -42,6 +42,7 @@
         "flarum/tags": "^0.1.0",
         "jsthon/flarum-ext-simplified-chinese": "*",
         "flagrow/flarum-ext-image-upload": "*",
+        "flagrow/upload": "*",
         "flagrow/bazaar": "*",
         "WiseClock/flarum-ext-profile-image-crop": "*",
         "s9e/flarum-ext-autoimage": "*",
