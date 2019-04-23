@@ -45,7 +45,7 @@
         "flagrow/bazaar": "*",
         "WiseClock/flarum-ext-profile-image-crop": "*",
         "s9e/flarum-ext-autoimage": "*",
-        "sijad/flarum-ext-links: "*""
+        "sijad/flarum-ext-links": "*"
     },
     "config": {
         "preferred-install": "dist",
